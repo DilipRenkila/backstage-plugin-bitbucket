@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/loblaw-sre/backstage-plugin-bitbucket"
+    "url": "https://github.com/tiagoceluppi/backstage-plugin-bitbucket"
   },
   "keywords": [
     "backstage",
